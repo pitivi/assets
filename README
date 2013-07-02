@@ -1,0 +1,8 @@
+You can push projects on that repository, they will have to use
+the media available in the media subdirectory.
+
+To ask for more media, ping Mathieu_Du on #pitivi.
+
+To try a project, launch pitivi that way:
+
+GST_TESTING_ASSETS_DIRECTORY=/path/to/assets/repository ./bin/pitivi
